@@ -1,0 +1,5 @@
+git init //tạo repo trên local
+git remote //kiểm tra kết nối với remote
+git remote -v
+git remote add origin https://github.com/ngantran13/mygit.git //tạo kết nối
+git push -u origin tennhanh
