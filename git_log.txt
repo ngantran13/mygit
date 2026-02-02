@@ -1,0 +1,3 @@
+git log //xem full lịch sử commit
+git log --oneline //xêm tắt
+git log --oneline --graph //biểu đồ
